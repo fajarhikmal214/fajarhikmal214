@@ -1,15 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hello Internet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Muhammad Zidane Sc</h1>
+<h1 align="center">Hello Internet <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Fajar Hikmal</h1>
 <h3 align="center">Web Developer From Indonesia</h3>
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[Grootech](http://grootech.id/)**
-- 🌱 I’m currently learning **ADONIS JS**
-- 💬 Ask me about **Laravel**
-- 📫 Reach me at: **zidanesc02@gmail.com**
-- ⚡ Fun fact **My last name is just Sc, that's all**
+- 🔭 I’m currently working on **BMKA Salman ITB**
+- 🌱 I’m currently learning **NODE JS**
+- 📫 Reach me at: **fajarhikmal214@gmail.com**
+- ⚡ Fun fact **My name is Fajar or in English is Dawn 'cause i born at dawn, that's all**
 
 ## 🚀 My Skills:
 <p align="left"> 
