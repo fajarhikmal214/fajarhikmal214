@@ -7,13 +7,9 @@
 
 - 👯 I’m looking to collaborate on **REST API Project**
 
-- 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1PumwXrOWItRGL98CEdWEelXa7Gi-lWI2/view?usp=sharing](https://drive.google.com/file/d/1PumwXrOWItRGL98CEdWEelXa7Gi-lWI2/view?usp=sharing)
-
 - 💬 Ask me about **NodeJS**
 
 - 📫 How to reach me **fajarhikmal214@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vZpwk7InNTxjDCQyNQxlg5lHS6zZ_bcN/view?usp=sharing](https://drive.google.com/file/d/1vZpwk7InNTxjDCQyNQxlg5lHS6zZ_bcN/view?usp=sharing)
 
 - ⚡ Fun fact **My name is Fajar or in English is dawn 'cause i born at dawn, that's all**
 
