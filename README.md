@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hikmal</h1>
 <h3 align="center">A Node.js Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=angaihimitsu&label=Profile%20views&color=0e75b6&style=flat" alt="angaihimitsu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarhikmal214&label=Profile%20views&color=0e75b6&style=flat" alt="fajarhikmal214" /> </p>
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
