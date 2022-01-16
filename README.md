@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 💬 Ask me about **Node.js**
-
 - 📫 How to reach me **fajarhikmal214@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
