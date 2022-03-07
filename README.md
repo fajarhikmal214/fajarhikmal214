@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node.js and Golang**
 
-- 💬 Ask me about SQL
+- 💬 Ask me about **SQL**
 
 - 📫 How to reach me **fajarhikmal214@gmail.com**
 
