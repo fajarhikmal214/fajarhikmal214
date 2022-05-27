@@ -1,10 +1,6 @@
 <h1 align="center">Hello World! I'm Hikmal</h1>
 <h3 align="center">Backend Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fajarhikmal214&label=Profile%20views&color=0e75b6&style=flat" alt="fajarhikmal214" /> </p>
-
-<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-
 - 🌱 I’m currently using **Node.js** and learning **Golang**
 
 - 💬 Ask me about **SQL**
