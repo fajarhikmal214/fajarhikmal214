@@ -1,7 +1,7 @@
 <h1 align="center">Hello World! I'm Hikmal</h1>
 <h3 align="center">Backend Engineer</h3>
 
-- 🌱 I’m currently using **Node.js** (mostly **TypeScript**) and learning **Golang**
+- 🌱 I’m currently using **Node.js** (mostly **TypeScript**)
 
 - 💬 Ask me about **SQL**
 
