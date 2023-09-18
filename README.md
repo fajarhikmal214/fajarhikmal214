@@ -1,5 +1,4 @@
-<h1 align="center">Hello World! I'm Hikmal</h1>
-<h3 align="center">Backend Engineer</h3>
+<h5 align="left">Hello World! I am Fajar Hikmal. I am a Backend Engineer.</h5>
 
 - 🌱 I’m currently using **Node.js** (mostly **TypeScript**)
 
